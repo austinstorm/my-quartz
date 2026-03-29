@@ -1,5 +1,5 @@
 ---
-title: Folk Culture
+title: Folk Culture- Signs & Shadows
 draft: false
 tags:
   - Ramble
@@ -42,6 +42,6 @@ Real folk culture is not easily replicated. This is why pubs in the US are not t
 
 Nostalgia is a thing to look out for. Nostalgia itself isn't a problem, but when nostalgia is at the forefront it's a sign that the spectacle has taken hold. Nostalgia relies on things being 'recognizable' and emotionally charged.
 
-In the conservative Christian worlds in which I travel, this looks like vicarious pride in 'robust congregational singing' or continuity of liturgical practice or whatever in a way that bypasses actually participating in the real. This makes those people no better than the members of the much-maligned Mall Megachurch, whose services often seem essentially vicarious- people sitting in the darkness, looking at beautiful and talented people sing on a stage.
+In the conservative Christian worlds in which I travel, this looks like vicarious pride in 'robust congregational singing' or continuity of liturgical practice or whatever in a way that bypasses actually participating in the real. This makes those people much closer than they'd like to the members of the much-maligned Mall Megachurch, whose services often seem essentially vicarious- people sitting in the darkness, looking at beautiful and talented people sing on a stage.
 
-Folk cannot be exclusively individual. It has individual practitioners, of course, but it must have collective identity. Folk cannot be vicarious, and there is no nominalism in folk.
+Folk cannot be vicarious, and there is no nominalism in folk. Folk cannot be exclusively individual. It has individual practitioners, of course, but it must have collective identity.
