@@ -13,11 +13,11 @@ The modern world is flat and shallow and manufactured. Alienation is the order o
 The most visible expression of this interest in folk culture is on the Internet. Social media presents appealing images of folk music, liturgy, and handcraft. But we must be careful to differentiate between the genuine article and just another dead-end in modernity's house of mirrors.
 ### Clowns to the left of me, jokers to the right
 
-Contrary to popular perception, folk practices do not emerge from timeless culturally idyll, nor do they function decoratively.
+Contrary to popular perception, folk practices do not emerge from timeless cultural idyll, nor do they function decoratively.
 
-They were tools of cultural preservation in the face of pressure and social change. This bit is appealing to conservatives, who face a perennial temptation to LARP. They were also about communities without power organizing themselves both socially and politically. This is appealing to liberals, who are often stymied by in-fighting due to a lack of common culture.
+Instead, they were tools of cultural preservation in the face of pressure and social change. This bit is appealing to conservatives, who face a perennial temptation to LARP. But folk practices were also about communities without power organizing themselves both socially and politically. This is appealing to liberals, who are often stymied by in-fighting due to a lack of common culture.
 
-Folk culture is about hope and agency and community in the face of the difficulty of life or oppression and opposition. But folk culture is only folk culture if it reflects the practice of a real people, embedded in a place and time (a shared seasonality). Devoid of a real communal context, let alone a sense of place or season, interest in folk culture is reduced to the nostalgic and the symbolic. Thus deracinated it becomes either a tool to serve political ends, or spectacle curated to appease the algorithm.
+Folk culture is about hope and community in the face of the difficulty of life or oppression and opposition. But folk culture is only folk culture if it reflects the practice of a real people, embedded in a place and time (a shared seasonality). Devoid of a real communal context, let alone a sense of place or season, interest in folk culture is reduced to the nostalgic and the symbolic. Thus deracinated it becomes either a tool to serve political ends, or spectacle curated to appease the algorithm.
 ### Sign World
 
 The algorithm explains how culture gets narrowed, because it favors things which 'travel well' - presenting us with curated snapshots tailored to our interests. This is particularly insidious because it does this while simultaneously *appearing* to show us a broader range of things than we would otherwise be exposed to.
