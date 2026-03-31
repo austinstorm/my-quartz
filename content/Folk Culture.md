@@ -5,6 +5,7 @@ tags:
   - Ramble
   - culture
   - FolkCulture
+  - theSpectacle
 ---
 ### Alienation!
 
