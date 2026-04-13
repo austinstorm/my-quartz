@@ -1,5 +1,5 @@
 ---
-title: Jamais Vu and the Re-enchantment of the Eyes
+title: Jamais vu and the Re-enchantment of the Eyes
 draft: false
 tags:
   - reenchantment
@@ -10,8 +10,6 @@ Most people know of 'deja vu', which is French for 'seen before'. It's that feel
 We think of this as a material experience, a 'brain glitch'. (it is telling that most of our metaphors for the brain come from computing). But I would suggest it's also a mystical experience. Why is this disquieting, when a more 'materialist' explanation - that of something neurobiological going awry - is settling, almost comforting to us?
 
 Each one is equally a bit of a hand-wave that reveals our priors. Either we believe the world to be material and therefore everything must ultimately have material explanations, or we believe the world to be supernatural and everything ultimately has metaphysical explanations.
-
-This is what is sometimes meant by "believe in science", an unfortunate phrase if ever there was one. First, the ultimate knowability of the universe. And second, some kind of materialism. But science *itself* doesn't support pure materialism, and supernaturalists can also believe in the comprehensibility of the universe.
 
 We must resist this false binary. There's no such thing as a purely physical or spiritual experience, it's not 'either/or' it's 'both/and'.
 
@@ -33,7 +31,7 @@ I am interested in architecture and interior design. But I have found that one o
 
 For the designer, and indeed for the artist in general, *jamais vu* is a mystical experience much to be desired. However disorienting the experience may be, we need this experience, because we become overly familiar with the world.
 
-I can no longer see St. Ignatius as I first saw it. Familiarity has led to blindness, and I am inured to much of its magic. We cannot see what we have already seen. We need our eyes to be re-enchanted.
+I can no longer see St. Ignatius as I first saw it. Familiarity has led to blindness, and I am inured to its wildness. We cannot see what we have already seen. We need our eyes to be re-enchanted.
 
 ___
 
