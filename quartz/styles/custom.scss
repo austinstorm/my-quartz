@@ -11,3 +11,42 @@
   --bodyFont: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif !important;
 }
 
+// Make the RecentNotes sidebar read like Explorer's simple file list:
+// compact rows, no date, links styled like Explorer entries.
+.recent-notes {
+  & > ul.recent-ul {
+    margin-top: 0.5rem;
+
+    & > li {
+      margin: 0;
+      padding: 0.15rem 0;
+
+      .section {
+        display: block;
+
+        .desc > h3 {
+          margin: 0;
+          font-size: 0.95rem;
+          font-weight: 500;
+          font-family: var(--bodyFont);
+
+          > a {
+            color: var(--dark);
+            opacity: 0.75;
+            background-color: transparent;
+          }
+
+          > a:hover {
+            color: var(--tertiary);
+            opacity: 1;
+          }
+        }
+
+        .meta {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
