@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Transitional font stack (modern-font-stacks): Charter, Bitstream Charter, Sitka Text, Cambria
+// !important: the base theme's :root font vars are emitted after this file, so without
+// it they would override these values (and the minifier drops the non-important ones).
+:root {
+  --titleFont: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif !important;
+  --headerFont: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif !important;
+  --bodyFont: Charter, "Bitstream Charter", "Sitka Text", Cambria, serif !important;
+}
+

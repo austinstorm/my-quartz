@@ -20,7 +20,11 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      // fontOrigin "local" means the site uses system fonts. The actual body/
+      // header fonts (the Transitional stack) are set in quartz/styles/custom.scss.
+      // The typography names below are only used to render OG social-preview
+      // images, so they must be Google Fonts.
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
