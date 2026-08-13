@@ -9,6 +9,7 @@ tags:
   - technology
   - history
   - theNewAtlantis
+  - communism
 ---
 > The paradox, however, is that if the future is inevitable, then there’s nothing for you or me to do about it. Writing in the 1940s, C. S. Lewis observed a similar dynamic in communist writers. He noted that “they tend, when all else fails, to tell me that I ought to forward the revolution because ‘it is bound to come.’ One dissuaded me from my own position on the shockingly irrelevant ground that if I continued to hold it I should, in good time, be ‘mown down’ — argued, as a cancer might argue if it could talk, that he must be right because he could kill me.”
 >

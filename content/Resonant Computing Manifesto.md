@@ -3,6 +3,7 @@ title: "Resonant Computing Manifesto"
 draft: false
 tags:
   - manifestos
+  - AI
 ---
 
 https://resonantcomputing.org/

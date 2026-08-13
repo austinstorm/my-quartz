@@ -4,6 +4,7 @@ draft: false
 tags:
   - aphorism
   - MoscowProject
+  - DougWilson
 ---
 
 > I believe that we as Christians are called to cultivate cultural maturity over time, and that in every generation there will be people in the vanguard trying to show the way.

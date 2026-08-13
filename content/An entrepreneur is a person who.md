@@ -3,6 +3,7 @@ title: "An entrepreneur is a person who"
 draft: false
 tags:
   - entrepreneurship
+  - ChinNingChu
 ---
 
 > An entrepreneur is a person who, in order to avoid working eight hours a day, works sixteen hours a day.

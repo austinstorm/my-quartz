@@ -5,6 +5,7 @@ tags:
   - PeterLeithart
   - Theopolis
   - Notes
+  - AbrahamKuyper
 ---
 
 A very *gentle* manifesto.

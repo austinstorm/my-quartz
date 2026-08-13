@@ -7,6 +7,8 @@ tags:
   - AlanJacobs
   - EvangelicalDiscourse
   - Moscow
+  - Harpers
+  - NancyFraser
 ---
 
 > The German philosopher Jürgen Habermas is the great theorist and explainer of the public sphere, that conversational space in a society where the issues of the day are debated and contested — where alternative points of view are considered by the public. Nancy Fraser, a feminist political theorist, pointed out that not everyone gets to be a part of this public sphere: women and minorities, especially, tend not to be invited. They are not given space in the newspapers and magazines, or places at the talk-show table. They are therefore driven to create what Fraser called “subaltern counterpublics”: their own publishing houses, magazines, and websites where they can articulate their convictions.

@@ -5,6 +5,7 @@ tags:
   - NeilPostman
   - institutions
   - information
+  - MaxWeber
 ---
 
 > Social institutions of all kinds function as control mechanisms. This is important to say, because most writers on the subject of social institutions (especially sociologists) do not grasp the idea that any decline in the force of institutions makes people vulnerable to information chaos. To say that life is destabilized by weakened institutions is merely to say that information loses its use and therefore becomes a source of confusion rather than coherence.

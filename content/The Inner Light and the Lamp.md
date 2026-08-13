@@ -5,6 +5,7 @@ tags:
   - EvelynUnderhill
   - GeorgeFox
   - mysticism
+  - CommentMag
 ---
 
 Of Quaker George Fox, she could say his “Inner Light would have burned with a better and truer flame had it submitted to the limitations of the lamp.”

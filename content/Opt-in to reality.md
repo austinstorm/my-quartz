@@ -3,6 +3,7 @@ title: "Opt-in to reality"
 draft: false
 tags:
   - AntónBarbaKay
+  - TimothyLeary
 ---
 
 “Where once it was occasionally possible to opt out of reality (by taking drugs, say) it is now increasingly necessary to think about how to opt in to it.” -Antón Barba-Kay, a web of our own making, p. 180

@@ -5,6 +5,7 @@ tags:
   - GeoffreyFisher
   - Anglicanism
   - Catholicism
+  - CharlesGrafton
 ---
 
 "We have no doctrine of our own—we only possess the Catholic doctrine of the Catholic Church enshrined in the Catholic creeds, and those creeds we hold without addition or diminution. We stand firm on that rock."

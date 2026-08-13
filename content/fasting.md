@@ -6,6 +6,7 @@ tags:
   - liturgy
   - JamesJordan
   - MatthewLeeAnderson
+  - fasting
 ---
 
 Fasting is difficult to get a handle on, but the one thing that seems clear is that we're called to do it.

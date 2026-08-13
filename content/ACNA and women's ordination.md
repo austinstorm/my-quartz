@@ -3,6 +3,9 @@ title: "ACNA and women's ordination"
 draft: false
 tags:
   - ACNA
+  - NorthAmAnglican
+  - womensOrdination
+  - SteveWood
 ---
 
 https://northamanglican.com/an-anglican-layman-looks-at-womens-ordination/

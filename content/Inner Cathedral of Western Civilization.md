@@ -5,6 +5,8 @@ tags:
   - RichardForeman
   - LMSacasas
   - NicholasCarr
+  - theAtlantic
+  - GKChesterton
 ---
 
 > I come from a tradition of Western culture, in which the ideal (my ideal) was the complex, dense and “cathedral-like” structure of the highly educated and articulate personality—a man or woman who carried inside themselves a personally constructed and unique version of the entire heritage of the West. But today, I see within us all (myself included) the replacement of complex inner density with a new kind of self-evolving under the pressure of information overload and the technology of the “instantly available.” A new self that needs to contain less and less of an inner repertory of dense cultural inheritance—as we all become “pancake people”—spread wide and thin as we connect with that vast network of information accessed by the mere touch of a button.

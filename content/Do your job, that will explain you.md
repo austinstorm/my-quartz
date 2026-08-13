@@ -4,6 +4,7 @@ draft: false
 tags:
   - PeggyNoonan
   - work
+  - WSJ
 ---
 
 "Public figures often want to be understood. This is a mistake. People don’t want to understand you, they’re ornery. Do your job, that will explain you."

@@ -5,6 +5,7 @@ tags:
   - TheAmericanConservative
   - film
   - DavidLynch
+  - theAmericanConservative
 ---
 
 This article is so tremendously full of shit, I love it. Which is not to say Lynch needs to be valorized, but John Ford and Frank Capra are 'not it' as they say.

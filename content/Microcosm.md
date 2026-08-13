@@ -4,6 +4,9 @@ draft: false
 tags:
   - architecture
   - urbanism
+  - DamageMag
+  - cosmology
+  - ClaudeLéviStrauss
 ---
 
 Claude Lévi-Strauss, visiting the Bororo, noticed that “their wise men have worked out an impressive cosmology and embodied it in the plan of the villages and the layout of the dwellings.”

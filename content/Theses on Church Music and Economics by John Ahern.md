@@ -6,6 +6,7 @@ tags:
   - ChurchMusic
   - Theopolis
   - JohnAhern
+  - economics
 ---
 
 I am for sure unclear about No 1-3, in light of my (realatively recent) suspicion of [[BHAGs]]. But I could be convinced otherwise!

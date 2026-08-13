@@ -1,6 +1,9 @@
 ---
 title: "Mary as co-redemptrix"
 draft: false
+tags:
+  - Mariology
+  - intercession
 ---
 
 https://philorthodox.blogspot.com/2025/11/the-intercession-of-our-lady.html

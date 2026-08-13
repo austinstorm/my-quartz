@@ -4,6 +4,8 @@ draft: false
 tags:
   - aphorism
   - GerhardusVos
+  - DesiringGod
+  - eschatology
 ---
 
 The Kingdom of God was inaugurated in the life, death, and resurrection of Jesus Christ. But there is still tension between this world and the world to come, and Christians are called to live in [[Cross of reality|this tension]].

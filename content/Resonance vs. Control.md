@@ -5,6 +5,7 @@ tags:
   - HartmutRosa
   - TaoOfAustin
   - ThePsalms
+  - MereOrthodoxy
 ---
 
 > Affection: This is an encounter with transcendence; hearing the “voice” of the world, which declares God’s authority and control (Ps. 50:6). This is not something we conjure on our own, but rather something outside of us that acts upon us.

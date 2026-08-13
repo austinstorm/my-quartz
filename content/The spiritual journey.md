@@ -3,6 +3,7 @@ title: "The spiritual journey"
 draft: false
 tags:
   - CarlJung
+  - spiritualJourney
 ---
 
 "The spiritual journey is not a career or a success story. It is a series of small humiliations of the false self that become more and more profound.”

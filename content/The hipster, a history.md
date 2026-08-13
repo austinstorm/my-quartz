@@ -5,6 +5,7 @@ tags:
   - FirstThings
   - ViceMagazine
   - JimGoad
+  - GavinMcInnes
 ---
 
 https://firstthings.com/how-hipsters-gave-us-trump/

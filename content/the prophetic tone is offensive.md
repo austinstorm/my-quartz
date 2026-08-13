@@ -4,6 +4,7 @@ draft: false
 tags:
   - TobySumpter
   - PropheticVoice
+  - DesiringGod
 ---
 
 > Perhaps it is nothing new, but it certainly feels like there is currently a steady wave of Christian objections to the prophetic. *The prophetic tone is offensive. It seems extreme, over the top, and unnecessarily combative.* What we need, we are told again and again, is an irenic tone, words seasoned with grace. We need conversations and dialogue and round table discussions.

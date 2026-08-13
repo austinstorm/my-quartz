@@ -6,6 +6,8 @@ tags:
   - culture
   - FolkCulture
   - theSpectacle
+  - GuyDebord
+  - SusanSontag
 ---
 ### Alienation!
 

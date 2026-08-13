@@ -3,6 +3,8 @@ title: "Moscow Project"
 draft: false
 tags:
   - stub
+  - MoscowProject
+  - DougWilson
 ---
 
 *In 2015 when I last used this commonplace book, I was still wrestling through what it meant to live, work and worship in Moscow, Idaho. This question largely resolved itself when I moved to Colfax, Washington, where I currently live. I'm preserving all of this stuff because I want to remember it.*

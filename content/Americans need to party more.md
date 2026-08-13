@@ -1,6 +1,11 @@
 ---
 title: "Americans need to party more"
 draft: false
+tags:
+  - theAtlantic
+  - EllenCushing
+  - loneliness
+  - community
 ---
 
 > “Many Americans are alone, friendless, isolated, undersexed, sick of online dating, glued to their couches, and transfixed by their phones, their mouths starting to close over from lack of use … The time we spend socializing in person has plummeted in the past decade, and anxiety and hopelessness have increased,” Cushing writes. “America is in a party deficit. Only 4.1 percent of Americans attended or hosted a social event on an average weekend or holiday in 2023.”⁠

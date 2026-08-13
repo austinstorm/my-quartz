@@ -5,6 +5,7 @@ tags:
   - PeterHitchens
   - TheLamp
   - language
+  - ArthurKoestler
 ---
 
 > But the big things just go out of mind, and people get used to novelty in public affairs with amazing willingness. A new liturgy or a sudden unexplained change in English grammar which, in a matter of days, replaces the older style, very soon become commonplace for most people. Many Anglicans came to accept, with barely a sigh, the systematic suppression of the 1662 Book of Common Prayer. And then there is language itself. For example, for the first fifty or so years of my life the verb “commit” was reflexive. You committed yourself, and I committed myself. Then, one day, everybody in public life and the media dropped the reflexive pronoun. It happened much as yellow became a fashionable color in women’s clothes, and “taupe,” whatever that is, ceased to be. Are there committees which decide this?

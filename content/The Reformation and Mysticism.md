@@ -5,6 +5,9 @@ tags:
   - TheReformation
   - mysticism
   - SimonCritchley
+  - theParisReview
+  - MartinLuther
+  - ThomasMuentzer
 ---
 
 > Mysticism is often linked to what emerges in the Reformation in the early sixteenth Century with Luther, who also translates the Bible into German. Luther is antimystical, committed to the “alien” nature of grace, and opposed the so-called enthusiasts of the Reformation, like Thomas Muentzer and the Anabaptists, who stressed the immanence of God in every person. Although this is a much more complex issue than I am allowing here, which requires considerable historical nuance, the Reformation opens a different space for mysticism. The turn to the vernacular permits a democratization of religious institutions and a progressive laicization, an undermining of clerical power which can be traced with a particularly wild intensity in America (in groups like the Quakers, the Shakers, the Baptists, and the Mormons, and even all the way to Scientology).

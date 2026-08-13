@@ -4,6 +4,7 @@ draft: false
 tags:
   - TomHolland
   - apologetics
+  - NewStatesman
 ---
 
 > Holland is reluctant to pronounce on such a question. “I’m not a theologian – who am I to say whether it’s true or not? I feel torn between a kind of almost existential abyss where nothing is true and feeling the tug of wanting to believe in something that is supernatural, and therefore more exciting and interesting than a merely material world.”

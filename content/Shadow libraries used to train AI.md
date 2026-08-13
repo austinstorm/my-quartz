@@ -4,6 +4,7 @@ draft: false
 tags:
   - Facebook
   - AI
+  - copyright
 ---
 
 > Unsealed court documents from February 5th, 2024, in Kadrey v. Meta show Meta (formerly Facebook) illegally torrented 81.7TB of data from "shadow libraries" such as Anna's Archive, Z-Library, and LibGen to train Meta artificial intelligence.

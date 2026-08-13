@@ -4,5 +4,6 @@ draft: false
 tags:
   - prayer
   - Orthodoxy
+  - DanielSysoev
 ---
 Mother Prosdokia, abbess of the Ormylia convent in Greece, stated (about Daniel Sysoev) that "it is time to not to pray for Fr Daniel, but to pray to him".

@@ -3,6 +3,7 @@ title: "To the human heart"
 draft: false
 tags:
   - JohnOfKronstadt
+  - StJohnOfKronstadt
 ---
 
 To the human heart, the heart of Christ is given.

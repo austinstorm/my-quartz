@@ -3,6 +3,8 @@ title: "food and drink actually differ by region"
 draft: false
 tags:
   - local
+  - theNewYorker
+  - TimWu
 ---
 
 > There is also something to be said for a country where things like food or drink actually differ by region.

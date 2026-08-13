@@ -4,6 +4,7 @@ draft: false
 tags:
   - DanWilt
   - worship
+  - spiritualFormation
 ---
 
 > "The deep work of those of us in the worship renewal and education space is to remove worship from its current moorings in the contemporary Christian music industry, and reset the jewel of worship in the spiritual formation and discipleship life of the ancient-future Church."

@@ -3,6 +3,7 @@ title: "The difference between Evangelicals and the Amish"
 draft: false
 tags:
   - technology
+  - Amish
 ---
 
 *Apocryphal anecdote, email forwardy:*

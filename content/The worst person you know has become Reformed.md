@@ -3,6 +3,7 @@ title: The worst person you know has become Reformed
 draft: false
 tags:
   - Orthodoxy
+  - Reformed
 ---
 Overly incendiary title. The worst person you is, of course, *yourself*. Ala the Apostle Paul, but also Pogo: "We have met the enemy and he is us." But one of the best Internet memes of all time is, "The worst person you know just made a great point" (from ClickHole in 2018).
 

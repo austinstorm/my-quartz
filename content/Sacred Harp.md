@@ -4,6 +4,8 @@ draft: false
 tags:
   - music
   - Notes
+  - SacredHarp
+  - TimEriksen
 ---
 
 Tim Eriksen is the guy, his phd thesis is great.

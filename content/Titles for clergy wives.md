@@ -3,6 +3,7 @@ title: "Titles for clergy wives"
 draft: false
 tags:
   - clergy
+  - churchHistory
 ---
 
 > The truth is that the West referred to the wives of clergy with an honorific in the first millennium. During that time, there is no evidence that the East did the same. Then, during the second millennium, the roles reversed: the West stopped using honorifics, while the East began using them, perhaps as late as the early modern period.

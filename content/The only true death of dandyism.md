@@ -5,6 +5,7 @@ tags:
   - CharlesBaudelaire
   - fashion
   - fatherhood
+  - dandyism
 ---
 
 > The only true death of dandyism is fatherhood.

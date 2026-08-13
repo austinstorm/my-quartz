@@ -1,6 +1,8 @@
 ---
 title: "Immigration"
 draft: false
+tags:
+  - immigration
 ---
 
 > Oh, pilgrim, let us not descend into the moral clarity of saying what we mean. There’s a situation, and questions of some kind are arising about the mumble mumble.

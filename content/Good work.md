@@ -3,6 +3,8 @@ title: "Good work"
 draft: false
 tags:
   - work
+  - AnthonyScholle
+  - humanFlourishing
 ---
 
 > What then is work? In its most basic sense, we do work when we apply our unique human capacities—often in combination with technology—to transform the raw materials of the world into something that benefits ourselves and our fellow man. Good work is inherently oriented toward human flourishing. You can read more about how we define human flourishing here but in short human flourishing is a good life well-lived. Flourishing is the internal good that defines work, giving it its very nature and being. In this sense work is unavoidable insofar as we are meant to have agency in the world and to love our neighbors. We cannot even conceive a world where this kind of work is not done.

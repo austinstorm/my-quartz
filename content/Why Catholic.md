@@ -4,6 +4,7 @@ draft: false
 tags:
   - Catholicism
   - SacredHarp
+  - evangelicalism
 ---
 
 Javier Valazquez on this piece: "I became Catholic because I wanted the fullness of Truth yet I still love the South and the low church evangelical imagination because I’ve seen the overflow of grace. If anything, the more Catholic you become, the less you can indulge the cheap contempt that treats other Christians as merely “wrong.” There is a difference between doctrinal error and emptiness, and a lot of the South is not empty. It is full of a certain human goodness that smells like God."

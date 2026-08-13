@@ -5,6 +5,7 @@ tags:
   - play
   - ritual
   - community
+  - JohanHuizinga
 ---
 
 "Once the game is over, the king and the pawn go back into the same box." - *Italian proverb*

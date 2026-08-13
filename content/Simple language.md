@@ -5,6 +5,7 @@ tags:
   - DerekThompson
   - writing
   - language
+  - theAtlantic
 ---
 
 "Smart people respect simple language not because simple words are easy, but because expressing interesting ideas in small words takes a lot of work."

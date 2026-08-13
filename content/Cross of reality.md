@@ -3,6 +3,8 @@ title: "Cross of reality"
 draft: false
 tags:
   - EugenRosenstockHuessy
+  - Theopolis
+  - PeterLeithart
 ---
 
 The Cross of Reality is an attempt to describe in post-theological terms the tension and suffering that is a universal human experience.

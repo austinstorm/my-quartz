@@ -6,6 +6,7 @@ tags:
   - rationalism
   - materialism
   - TheOtherJournal
+  - JessicaDore
 ---
 
 "Tarot, as you’ll see if you have not already, provides a path toward reclaiming the imagination from the grips of doubt and rationalism. Toward reawakening the part in us with the audacity to know without material evidence."

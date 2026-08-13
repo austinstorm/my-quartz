@@ -5,6 +5,9 @@ tags:
   - JohnAhern
   - Notes
   - Theopolis
+  - Calvin
+  - FrancisSchaeffer
+  - music
 ---
 
 God bless all involved, but I don't understand this defense of 'affect' and of vernacularism in the context of everything else I've read so far. But I agree with it? I'm just surprised.

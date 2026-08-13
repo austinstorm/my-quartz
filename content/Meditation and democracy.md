@@ -4,6 +4,7 @@ draft: false
 tags:
   - AlexisDeTocqueville
   - meditation
+  - democracy
 ---
 
 Alexis de Tocqueville’s Pascalian-inflected theory of the heart:

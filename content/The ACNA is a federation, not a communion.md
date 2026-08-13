@@ -3,6 +3,7 @@ title: "The ACNA is a federation, not a communion"
 draft: false
 tags:
   - ACNA
+  - Anglicanism
 ---
 
 Currently, anyway

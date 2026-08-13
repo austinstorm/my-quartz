@@ -4,6 +4,7 @@ draft: false
 tags:
   - architecture
   - PrinceCharles
+  - theGuardian
 ---
 
 > Leon Krier, who is writing a book on Le Corbusier, says he and Prince Charles will then embark on their ultimate project: “We are going to build a small modernist town and show them how to do it.”

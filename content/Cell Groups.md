@@ -3,6 +3,7 @@ title: "Cell Groups"
 draft: false
 tags:
   - AutobiographicalFragments
+  - church
 ---
 
 Peer-led small groups that I facilitated in high school at some point.

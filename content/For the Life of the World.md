@@ -4,6 +4,8 @@ draft: false
 tags:
   - AlexanderSchmemann
   - Notes
+  - liturgy
+  - eucharist
 ---
 
 This is presented as a book to read to understand Eastern Orthodoxy, but I imagine many Orthodox might consider Schmemann to be too 'protestant' in his sacramentology. I wonder if that's the case, I did find engagement criticizing his de-epmhasis of 'real presence' but it was from Catholics who didn't seem to get Schmemann's own arguments.

@@ -3,6 +3,8 @@ title: "New Saint Andrews: Housing"
 draft: false
 tags:
   - NewSaintAndrews
+  - Bauhaus
+  - WalterGropius
 ---
 
 > !! Learning wisdom while living in community

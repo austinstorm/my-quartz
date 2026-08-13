@@ -4,6 +4,9 @@ draft: false
 tags:
   - DallasWillard
   - church
+  - Conversatio
+  - DietrichBonhoeffer
+  - JamesWilhoit
 ---
 
 > “Now, if you read the New Testament or even the Old Testament, you might have come to that conclusion already [that it’s all about discipleship and transformation]. It is hard to avoid, but circumstances in history have a way of claiming us and not letting us see what’s actually happening. We have been through a period when the dominant theology simply had nothing to do with discipleship.”

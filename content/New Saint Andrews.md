@@ -1,6 +1,9 @@
 ---
 title: "New Saint Andrews"
 draft: false
+tags:
+  - NewSaintAndrews
+  - ChristChurch
 ---
 
 > !! History of the College

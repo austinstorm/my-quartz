@@ -5,6 +5,7 @@ tags:
   - image
   - church
   - biome
+  - deforestation
 ---
 
 ![](https://www.nature.com/immersive/d41586-019-00275-x/public/img/tiloma-gabriel-church-and-entos-eyesus-church.jpg)

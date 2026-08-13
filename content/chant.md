@@ -1,6 +1,9 @@
 ---
 title: "chant"
 draft: false
+tags:
+  - chant
+  - ThePsalms
 ---
 
 Specifically, chanting Psalms and Canticles from the Bible.

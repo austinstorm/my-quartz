@@ -5,6 +5,7 @@ tags:
   - AlexanderSchmemann
   - time
   - eternity
+  - FrAlexanderSchmemann
 ---
 
 > Eternity is not the negation of time, but time's absolute wholeness, gathering and restoration. Eternal life is not what begins after temporal life; it is the eternal presence of the totality of life. 

@@ -3,6 +3,7 @@ title: "Mental Time Travel"
 draft: false
 tags:
   - time
+  - longtermism
 ---
 
 > Conversation with Future Self: Imagine asking your future self open-ended questions to make better present choices.

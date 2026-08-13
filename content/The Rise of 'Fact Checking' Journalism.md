@@ -5,6 +5,8 @@ tags:
   - journalism
   - Covid19
   - TheNewAtlantis
+  - theNewAtlantis
+  - AnthonyFauci
 ---
 
 > Consider, for instance, the role that media coverage played in reporting on the confusing and often misleading public statements about the effectiveness of masks during the Covid-19 pandemic. Initially, media coverage, accurately reflecting official U.S. policy, reported that there was little evidence that masks worked, despite the fact that they were advocated by some experts and were already being used in several countries. Only a few weeks later, official U.S. policy notoriously changed, and media coverage flip-flopped, reporting instead that there was a consensus that masks did work after all, despite the fact that some experts continued to demur.

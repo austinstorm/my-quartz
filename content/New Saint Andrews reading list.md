@@ -1,6 +1,9 @@
 ---
 title: "New Saint Andrews: reading list"
 draft: false
+tags:
+  - GreatBooks
+  - ClassicalEducation
 ---
 
 > New St. Andrews College has adopted the following list of readings as a requirement for the Bachelor of Arts degree in Liberal Arts and Culture. The College is committed to assigning each of these works throughout the various colloquia which are required for graduation. These particular works have been selected because, as a set, they adequately introduce to our students the basic cultural output of the West.

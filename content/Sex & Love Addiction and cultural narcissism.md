@@ -5,6 +5,7 @@ tags:
   - AileyJolie
   - relationships
   - addiction
+  - narcissism
 ---
 
 https://aileyjolie.substack.com/p/the-body-keeps-the-script

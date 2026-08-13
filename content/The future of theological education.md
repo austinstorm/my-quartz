@@ -5,6 +5,7 @@ tags:
   - theology
   - education
   - TedASmith
+  - TedSmith
 ---
 
 > “[It] does not mean we sweep everyone into M.Div. programs–let alone into the one-year mini-masters that offer scaled-down professional education to laypeople with disposable income. It means we engage in a deep rethinking of the institutions and offerings of theological education on the way to creating what Justo Gonzalez has called ‘an uninterrupted continuity between Christian education as it is provided in the local church and that which is available to more advanced students.’ We need a full spectrum of offerings that ranges from free courses open to anyone, to courses held in conjunction with local congregations, to inexpensive certificate programs, to undergraduate courses that are fully theological, to traditional graduate and professional degrees…This full spectrum of theological education would need to be radically accessible, for the demands to form authentic selves bear down on all of us.”

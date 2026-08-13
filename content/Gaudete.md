@@ -3,6 +3,7 @@ title: "Gaudete"
 draft: false
 tags:
   - Hymnal
+  - Advent
 ---
 
 There's English words for Gaudete, but I've always wanted to hew a little closer to the Latin ala JM Neale (would that he had done one)

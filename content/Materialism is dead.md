@@ -4,6 +4,9 @@ draft: false
 tags:
   - IsaacNewton
   - JohnCollins
+  - physicalism
+  - DavidHume
+  - ImmanuelKant
 ---
 
 ...so why does it still plague us?

@@ -3,6 +3,8 @@ title: "Moscow's House Style"
 draft: false
 tags:
   - MoscowProject
+  - DougWilson
+  - TobySumpter
 ---
 
 Doug Wilson's words have been very *generative*, which is to say a lot of stuff has come to pass largely because of his writing output.

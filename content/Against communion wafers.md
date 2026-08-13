@@ -4,6 +4,10 @@ draft: false
 tags:
   - Anglicanism
   - Eucharist
+  - BenCrosby
+  - Calvin
+  - Augustine
+  - Bullinger
 ---
 
 > One of the less well-observed rubrics in the English Book of Common Prayer, as far as I can tell, is the requirement that the bread for communion “be such as is usual to be eaten; but the best and purest Wheat Bread that conveniently may be gotten.”

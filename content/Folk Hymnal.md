@@ -3,6 +3,7 @@ title: Folk Hymnal
 draft: false
 tags:
   - Projects
+  - music
 ---
 Maybe just a songbook, but with a Christian lens.
 

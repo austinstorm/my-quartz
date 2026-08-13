@@ -3,6 +3,7 @@ title: "ACNA - prayer book"
 draft: false
 tags:
   - ACNA
+  - liturgy
 ---
 
 I forgot that American Anglo-Catholics (in particular those from Nashotah-house, who are trained to be allergic to it) have a strong bias against the 1662, and that it's a marker of being Reformed/Calvinist in the US.

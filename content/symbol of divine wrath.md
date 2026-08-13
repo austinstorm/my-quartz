@@ -3,6 +3,9 @@ title: "symbol of divine wrath"
 draft: false
 tags:
   - DougJones
+  - Credenda
+  - RobertELee
+  - Confederacy
 ---
 
 > !!! Taking Down That Flag

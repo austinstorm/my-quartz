@@ -3,6 +3,7 @@ title: "The secondary market is like adding traffic lanes"
 draft: false
 tags:
   - resale
+  - NYT
 ---
 
 “The secondary market mitigates the wastefulness, but also it allows for more wastefulness, because what we keep doing is just figuring out ways to get rid of more and more of this,” said Rogers. “It’s like adding lanes on the highway. It will relieve traffic, but it also invites more traffic.”

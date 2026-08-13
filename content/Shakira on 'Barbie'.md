@@ -4,6 +4,7 @@ draft: false
 tags:
   - Shakira
   - GretaGerwig
+  - gender
 ---
 
 "My sons absolutely hated it. They felt that it was emasculating. And I agree, to a certain extent. I'm raising two boys. I want 'em to feel powerful too [while] respecting women."

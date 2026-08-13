@@ -3,6 +3,7 @@ title: "enclose himself in the inner closet of his heart"
 draft: false
 tags:
   - prayer
+  - StDimitriOfRostov
 ---
 
 > "When thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret." --(Matt. vi.6)"

@@ -1,6 +1,9 @@
 ---
 title: "Love the sinner, hate the sin?"
 draft: false
+tags:
+  - sin
+  - repentance
 ---
 
 A reasonable think on this old clam:

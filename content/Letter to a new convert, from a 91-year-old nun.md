@@ -1,6 +1,9 @@
 ---
 title: "Letter to a new convert, from a 91-year-old nun"
 draft: false
+tags:
+  - Orthodoxy
+  - conversion
 ---
 
 > Dear _____,

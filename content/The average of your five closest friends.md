@@ -4,6 +4,8 @@ draft: false
 tags:
   - JorgeLuisBorges
   - HustleCulture
+  - MichelDeMontaigne
+  - SaintFrancis
 ---
 
 Hustle culture has this thing wherein you're the average of your five closest friends. The lesson here is to choose your close friends wisely, because they represent in aggragate what you will become.

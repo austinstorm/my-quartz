@@ -4,6 +4,7 @@ draft: false
 tags:
   - pornography
   - habit
+  - AllenCarr
 ---
 
 A clever rewrite of Allen Carr's The Easy Method:

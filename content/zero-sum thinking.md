@@ -5,6 +5,8 @@ tags:
   - aphorism
   - dictionary
   - MoscowProject
+  - DougWilson
+  - HerbertSchlossberg
 ---
 
 > The Lord Jesus enacted the true nature of the world for us when He fed the 5,000 and the 4,000. In both cases, He refuted the central tenet of unbelief, which is that resources are scarce, and that God must be a skinflint. Zero-sum thinking is the idea that more for one person means less for somebody else.

@@ -3,6 +3,7 @@ title: "Sensory Stations of the Cross"
 draft: false
 tags:
   - Anglicanism
+  - StationsOfTheCross
 ---
 
 https://www.aestheticritualism.com/articles/sensory-stations-of-the-cross-a-guide

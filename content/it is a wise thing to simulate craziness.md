@@ -6,6 +6,7 @@ tags:
   - MichaelAnton
   - CostinAlamariu
   - madness
+  - ClaremontReview
 ---
 
 > And a great deal of BAP’s silly outrageousness seems to be there to provide air cover for the outrageous things he means in deadly earnest. If so, he might be following Niccolò Machiavelli, who once wrote “that it is a very wise thing to simulate craziness at the right time.” The internet pidgin likely serves a similar purpose. It simultaneously attracts the young—who by nature enjoy slang for its exclusionary effect on the duffers (which is why, to remain effective, slang must be constantly reinvented)—while putting off said duffers, who will assume that such drivel cannot be serious and thus is not worth their attention, much less their worry.

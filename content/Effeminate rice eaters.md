@@ -4,6 +4,8 @@ draft: false
 tags:
   - food
   - politics
+  - JLeonardCorning
+  - colonialism
 ---
 
 > Here’s something else you probably didn’t know: the modern obsession with eating massive amounts of meat isn’t “natural” or “traditional.” It comes from colonial propaganda designed to justify white supremacy.

@@ -3,6 +3,7 @@ title: "Read Banned Books"
 draft: false
 tags:
   - AReelADay
+  - censorship
 ---
 
 I've always been deeply skeptical of 'read banned books' as a slogan.

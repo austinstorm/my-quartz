@@ -3,6 +3,8 @@ title: "Internet overexposure syndrome"
 draft: false
 tags:
   - KatherineDee
+  - CommentMag
+  - internet
 ---
 
 > This instability of the digital self has profound physical consequences. 

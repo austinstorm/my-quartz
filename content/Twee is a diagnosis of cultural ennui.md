@@ -4,6 +4,7 @@ draft: false
 tags:
   - culture
   - InternetCulture
+  - IreneTriendl
 ---
 
 A seemingly harmless affectation that allows us to disengage with a clear conscience

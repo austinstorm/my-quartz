@@ -5,6 +5,8 @@ tags:
   - MarkAGarcia
   - institutions
   - education
+  - JamesCollins
+  - JerryPorras
 ---
 
 Big Hairy Audacious Goals, as articulated by James Collins and Jerry Porras in a 1996 Harvard Business Review article.

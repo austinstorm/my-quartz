@@ -3,6 +3,7 @@ title: "A Sin"
 draft: false
 tags:
   - BrianDoyle
+  - forgiveness
 ---
 
 > Committed a sin yesterday, in the hallway, at noon. I roared at my son, I grabbed him by the shirt collar, I frightened him so badly that he cowered and wept, and when he turned to run I grabbed him by the arm so roughly that he flinched, and it was that flicker of fear and pain across his face, the bright eager holy riveting face I have loved for ten years, that stopped me then and haunts me this morning; for I am the father of his fear, I sent it snarling into his heart, and I can never get it out now, which torments me.

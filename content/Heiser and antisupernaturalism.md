@@ -4,6 +4,9 @@ draft: false
 tags:
   - MichaelHeiser
   - ReEnchantment
+  - MereOrthodoxy
+  - CSLewis
+  - Augustine
 ---
 
 > If Heiser described the later tradition as antisupernaturalist, I stipulate that might have been a suboptimal framing, at least depending on which later exegete is in view and how one defines “supernatural.”  “Antimythological” might have been more precise. In my reading of him, Augustine himself exhibits this tendency (City of God 15.23) when it comes to the Enochian mythos, dismissing it as the stuff of fabulae (a pejorative in this context). To generalize, the (Older) Discarded Image that Heiser is attempting to reconstruct is “thicker” and “darker” than the later medieval one Lewis describes in the book of that same name (which would broadly describe an awful lot of the post-biblical tradition): it is more driven by narrative while being less accessible to reason and systematization. In that sense, there’s still an important difference.

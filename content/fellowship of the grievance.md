@@ -5,6 +5,7 @@ tags:
   - MoscowProject
   - aphorism
   - stub
+  - DougWilson
 ---
 
 articulated around 2002 by Doug Wilson, group of people with griefs who get together and agitate each other. Well is poisoned, Girard, etc

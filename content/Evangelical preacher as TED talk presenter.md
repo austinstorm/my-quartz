@@ -4,6 +4,7 @@ draft: false
 tags:
   - RobBell
   - EvangelicalDiscourse
+  - AlastairRoberts
 ---
 
 > The new evangelical communicator is all too often an ideas guru, spreading non-conventional, novel, and cool insights that make us feel good and encourage us to buy into their teaching...

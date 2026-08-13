@@ -6,6 +6,7 @@ tags:
   - Theotokos
   - Christ
   - ChandlerHolderJones
+  - ImmaculateConception
 ---
 
 > Thus, the theological definition of the term ‘Mother of God’ became the ultimate test of faith, the touchstone of Christian Orthodoxy, the greatest defence both of the Divinity of Jesus Christ and His Incarnation. The term Theotokos in no way implies that Mary is the generator or cause of Our Lord’s Divine Nature. That proposition would be simultaneously pagan and absurd. Theotokos solely safeguards and teaches the truth that the Babe conceived in the womb, suckled at the breasts, and reared on the knee, of Mary, is God. It has been honestly said that those who neglect to honour the Blessed Virgin do not fully appreciate or recognise the Incarnation of God as her Son.

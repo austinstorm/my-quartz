@@ -1,6 +1,8 @@
 ---
 title: "Have a good relationship with the system"
 draft: false
+tags:
+  - technology
 ---
 
 > I’ve noticed: people who dislike their computers tend to be ineffective with computers; and people who dislike people tend not to get what they want from them, unless they’re good at hiding their feelings. It sounds wishy-washy, but I think appreciating the beauty and complexity of the system that’s misbehaving makes one a more effective troubleshooter. Treating the system as an enemy makes it one.

@@ -5,6 +5,8 @@ tags:
   - Notes
   - JamesJordan
   - Theopolis
+  - worship
+  - liturgy
 ---
 
 *These are notes taken for the Te Deum Music Fellows Program 2023.*

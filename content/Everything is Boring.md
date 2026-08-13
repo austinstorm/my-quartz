@@ -3,6 +3,12 @@ title: "Everything is Boring"
 draft: false
 tags:
   - CultureClinic
+  - NYT
+  - KyleChayka
+  - RossDouthat
+  - TSEliot
+  - RomanoGuardini
+  - boredom
 ---
 
 **MANIFESTO ENTRY 1, 11/8/25**

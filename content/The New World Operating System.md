@@ -7,6 +7,7 @@ tags:
   - government
   - AI
   - managerialism
+  - HannahArendt
 ---
 
 > A college degree is required by employers for many positions that are fairly menial, for the simple reason that it serves as a signaling device for attributes that have little to do with intellectual accomplishment but are valuable to employers nonetheless: the ability to complete tasks, endure tedium, submit to supervision, and get along with others. Together, we might call these bourgeois virtues “conscientiousness.” A degree also serves as a cost-free sorting device for employers: the universities did the sorting for them already, when they admitted a student. 

@@ -3,6 +3,7 @@ title: "Why Anglicanism?"
 draft: false
 tags:
   - Anglicanism
+  - ecumenism
 ---
 
 One person's testimony:

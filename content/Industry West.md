@@ -3,6 +3,7 @@ title: "Industry West"
 draft: false
 tags:
   - uffdah
+  - design
 ---
 
 Industry West is the most cringe. Their whole business model is based on selling knock-offs of design classics, and they soon realized that the money was in hospitality projects because hospitality often only cares about 'the look' not provenance

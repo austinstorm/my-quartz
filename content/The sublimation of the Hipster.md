@@ -3,6 +3,7 @@ title: "The sublimation of the Hipster"
 draft: false
 tags:
   - culture
+  - hipster
 ---
 
 https://substack.com/home/post/p-176350460

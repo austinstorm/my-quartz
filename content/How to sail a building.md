@@ -5,6 +5,7 @@ tags:
   - place
   - home
   - LebbeusWoods
+  - CherylMendelson
 ---
 
 > To sail one’s home is to embrace an active role as its inhabitant. Architects and engineers provide a seaworthy structure, a building that is legible and intervenable, but its occupants are the ones in charge of sailing it.

@@ -5,6 +5,8 @@ tags:
   - JamesDavisonHunter
   - HedgehogReview
   - politics
+  - WendyBrown
+  - Nietzsche
 ---
 
 > In this identitarian turn, what matters most is the universally shared cultural logic rooted in what political philosopher Wendy Brown has called “wounded attachments.” All of these groups to which people attach themselves, these tribal affiliations in and through which they present themselves in public, typically as threatened and therefore deeply aggrieved, constitute a very wide swath of the American public. Indeed, it is increasingly hard to name an American who does not at least perceive himself to belong to a besieged, existentially threatened minority?

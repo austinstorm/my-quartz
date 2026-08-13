@@ -4,6 +4,7 @@ draft: false
 tags:
   - FoodService
   - retail
+  - RaxKing
 ---
 
 > There ought to be a draft in America: when you're 18, you get entered into the draft automatically, but it's not for military service, it's for food service, or it's for retail. I get yelled at about this every time I say it. I still think I'm right. It's not a class war thing. It's to learn how to be around people.  

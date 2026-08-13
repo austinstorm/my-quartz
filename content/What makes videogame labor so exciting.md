@@ -4,6 +4,8 @@ draft: false
 tags:
   - work
   - videogames
+  - TabithaArnold
+  - capitalism
 ---
 
 > What makes videogame labor so exciting is the chance to fully enjoy a reward for your efforts. You put in what you get out of it, in a very direct sense. The most satisfying games are actually fantasy simulations of living out a basic Marxist value: labor is entitled to all it creates.

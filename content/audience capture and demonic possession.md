@@ -1,6 +1,10 @@
 ---
 title: "audience capture and demonic possession"
 draft: false
+tags:
+  - MaryHarrington
+  - audienceCapture
+  - InternetCulture
 ---
 
 > But my sense is that even if she did “consent” to this event, in a sense, she also experienced a sense of compulsion, arising through the relation between herself as an OnlyFans performer, and the aggregate wishes of her fans. The conventional term for this is “audience capture”, and it’s a real phenomenon, that’s radically intensified by the directness of relationship between a digital creator and their audience.

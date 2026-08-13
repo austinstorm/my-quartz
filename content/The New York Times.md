@@ -4,6 +4,7 @@ draft: false
 tags:
   - JamesBennet
   - TheNewYorkTimes
+  - theEconomist
 ---
 
 "The Times is becoming the publication through which America’s progressive elite talks to itself about an America that does not really exist"

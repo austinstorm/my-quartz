@@ -4,6 +4,7 @@ draft: false
 tags:
   - nature
   - JamesLovelock
+  - Malthusian
 ---
 
 English scientist James Lovelock (b. 1919) came up with the "Gaia Hypothesis", that the earth is an exceptional, self-regulating organism.

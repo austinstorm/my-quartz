@@ -3,6 +3,8 @@ title: "List of clams"
 draft: false
 tags:
   - writing
+  - comedy
+  - JohnAugust
 ---
 
 This is dated 2016

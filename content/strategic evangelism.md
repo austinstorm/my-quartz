@@ -3,6 +3,7 @@ title: "strategic evangelism"
 draft: false
 tags:
   - MoscowProject
+  - JimWilson
 ---
 
 'strategic and feasible' is another way of putting this. A metaphor to explain why Moscow is a good location for evangelistic ministry.

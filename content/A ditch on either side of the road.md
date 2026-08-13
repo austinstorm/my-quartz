@@ -3,6 +3,7 @@ title: "A ditch on either side of the road"
 draft: false
 tags:
   - feminism
+  - KirstenSanders
 ---
 
 > There is a new avatar of modern feminism, and she is perfect.

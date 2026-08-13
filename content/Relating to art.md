@@ -6,6 +6,7 @@ tags:
   - AndreiTarkovsky
   - CSLewis
   - criticism
+  - AndreyTarkovski
 ---
 
 > We have forgotten how to relate emotionally to art: we treat it like editors, searching in it for that which the artist has supposedly hidden.

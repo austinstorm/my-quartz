@@ -4,6 +4,7 @@ draft: false
 tags:
   - Christianity
   - TullianTchividjian
+  - ChristianityToday
 ---
 
 > There is a fresh, sanctified I-don’t-care-ness that accompanies belief in the gospel. Whether you like me or not doesn’t matter, because my worth and my dignity and my identity are anchored in God’s approval. Christ won all of the approval and acceptance I need...

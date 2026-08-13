@@ -3,6 +3,7 @@ title: "Personal writing"
 draft: false
 tags:
   - memoir
+  - RaxKing
 ---
 
 > Any time a piece of personal writing gets popular, there's this really tedious debate about, “Do we know too much about each other?” Just really silly stuff. I don't know too much about people. 

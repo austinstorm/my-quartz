@@ -3,6 +3,7 @@ title: "Places to disappear"
 draft: false
 tags:
   - place
+  - AMHickman
 ---
 
 > It's a *fantastic* place to just disappear.

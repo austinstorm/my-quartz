@@ -3,6 +3,7 @@ title: "Navalny's closing remarks"
 draft: false
 tags:
   - AlekseiNavalny
+  - Christianity
 ---
 
 > The fact is that I am a Christian, which usually rather sets me up as an example for constant ridicule in the Anti-Corruption Foundation, because mostly our people are atheists and I was once quite a militant atheist myself. But now I am a believer . . . .

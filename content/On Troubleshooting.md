@@ -1,6 +1,8 @@
 ---
 title: "On Troubleshooting"
 draft: false
+tags:
+  - troubleshooting
 ---
 
 A terrific article:

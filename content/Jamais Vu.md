@@ -4,6 +4,8 @@ draft: false
 tags:
   - reenchantment
   - theArtistsWay
+  - mysticism
+  - perception
 ---
 Most people know of 'deja vu', which is French for 'seen before'. It's that feeling that we've seen or experienced something before, when we know we haven't.
 

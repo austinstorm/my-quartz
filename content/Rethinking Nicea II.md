@@ -4,6 +4,7 @@ draft: false
 tags:
   - Anglicanism
   - BenJefferies
+  - JohnHenryNewman
 ---
 
 https://www.earthaltar.org/post/nicea-ii-a-revocare

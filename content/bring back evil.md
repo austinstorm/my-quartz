@@ -3,6 +3,7 @@ title: "bring back evil"
 draft: false
 tags:
   - evil
+  - NicholasRussell
 ---
 
 > But there is a term, very old and yet very present, that we should reappraise and reintegrate into our understanding of the world if we are to have any hope of addressing its central rot: evil.

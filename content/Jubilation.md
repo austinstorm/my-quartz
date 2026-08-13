@@ -4,6 +4,7 @@ draft: false
 tags:
   - worship
   - Christianity
+  - ChurchMusic
 ---
 
 Ho-lee confirmation of my priors.

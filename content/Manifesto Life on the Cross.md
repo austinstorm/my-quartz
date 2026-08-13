@@ -5,6 +5,7 @@ tags:
   - MyManifesto
   - EugenRosenstockHuessy
   - draft
+  - OrdoAmoris
 ---
 
 "Ordo amoris" is Latin for the "order of loves". Developed by Augustine and Thomas Aquinas, it refers to the proper ordering of one's loves. 

@@ -5,6 +5,7 @@ tags:
   - TeresaDeCartagena
   - disability
   - interdependence
+  - SisterTeresaDeCartagena
 ---
 
 > “Divine generosity invites all to this blessed feast, but suffering grabs the infirm by their cloak and makes them enter by force.”

@@ -4,6 +4,7 @@ draft: false
 tags:
   - LifeMotto(s)
   - GuyDebord
+  - MarkFisher
 ---
 
 To be rather than to seem

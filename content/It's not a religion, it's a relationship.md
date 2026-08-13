@@ -3,6 +3,8 @@ title: "It's not a religion, it's a relationship"
 draft: false
 tags:
   - Christianity
+  - church
+  - sacraments
 ---
 
 > In evangelical America we learned to say that Christianity is not a religion, it is a relationship. The ancient Church would agree only if we complete the sentence. Christianity is a relationship, and it is a relationship lived in and through the Church. Anything else is a spiritual orphanhood that may produce affection for a time, but cannot produce a life of faith.

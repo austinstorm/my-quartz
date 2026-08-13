@@ -3,6 +3,7 @@ title: "Spiritual not religious"
 draft: false
 tags:
   - religion
+  - spirituality
 ---
 
 https://lizbucar.substack.com/p/when-scholars-dont-buy-the-religion

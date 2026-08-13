@@ -3,6 +3,7 @@ title: "John Wheeler Saw the Tear in Reality"
 draft: false
 tags:
   - Physics
+  - JohnWheeler
 ---
 
 https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/
