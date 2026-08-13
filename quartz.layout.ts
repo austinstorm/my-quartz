@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.RecentNotes({ title: "Recent Notes", limit: 10, showTags: false }),
-    TagNav({ title: "Top Tags", limit: 30 }),
+    TagNav({ title: "All Tags" }),
   ],
   right: [
     Component.Graph(),
@@ -65,7 +65,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.RecentNotes({ title: "Recent Notes", limit: 10, showTags: false }),
-    TagNav({ title: "Top Tags", limit: 30 }),
+    TagNav({ title: "All Tags" }),
   ],
   right: [],
 }
