@@ -1,8 +1,10 @@
 ---
-title: "Lovecraft's mythos"
+title: Lovecraft's mythos
 draft: false
 tags:
   - HPLovecraft
+  - mythology
+  - nihilism
 ---
 
 For Lovecraft, his “new artificial myths” represented an “aesthetic crystallization of that burning & inextinguishable feeling of mixed wonder & oppression which the sensitive imagination experiences upon scaling itself & its restrictions against the vast & provocative abyss of the unknown.”
