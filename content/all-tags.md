@@ -3,10 +3,10 @@ title: All Tags
 draft: false
 ---
 
-There are **1113** tags, sorted by how often they're used:
+There are **1116** tags, sorted by how often they're used:
 
 - [work (32)](/tags/work)
-- [art (24)](/tags/art)
+- [art (25)](/tags/art)
 - [dictionary (19)](/tags/dictionary)
 - [poetry (19)](/tags/poetry)
 - [Christianity (18)](/tags/Christianity)
@@ -267,6 +267,7 @@ There are **1113** tags, sorted by how often they're used:
 - [HughKenner (2)](/tags/HughKenner)
 - [humility (2)](/tags/humility)
 - [Hymnal (2)](/tags/Hymnal)
+- [IainMcGilchrist (2)](/tags/IainMcGilchrist)
 - [icons (2)](/tags/icons)
 - [independence (2)](/tags/independence)
 - [information (2)](/tags/information)
@@ -483,6 +484,7 @@ There are **1113** tags, sorted by how often they're used:
 - [ChrisBallas (1)](/tags/ChrisBallas)
 - [ChristChurch (1)](/tags/ChristChurch)
 - [Christendom (1)](/tags/Christendom)
+- [ChristianArt (1)](/tags/ChristianArt)
 - [ChristianCommunity (1)](/tags/ChristianCommunity)
 - [ChristianCulture (1)](/tags/ChristianCulture)
 - [ChristianHope (1)](/tags/ChristianHope)
@@ -672,7 +674,6 @@ There are **1113** tags, sorted by how often they're used:
 - [HunterSThompson (1)](/tags/HunterSThompson)
 - [HustleCulture (1)](/tags/HustleCulture)
 - [hymnody (1)](/tags/hymnody)
-- [IainMcGilchrist (1)](/tags/IainMcGilchrist)
 - [IanSimkins (1)](/tags/IanSimkins)
 - [ideas (1)](/tags/ideas)
 - [IdentityPolitics (1)](/tags/IdentityPolitics)
@@ -1045,6 +1046,7 @@ There are **1113** tags, sorted by how often they're used:
 - [theNewYorker (1)](/tags/theNewYorker)
 - [TheNewYorkTimes (1)](/tags/TheNewYorkTimes)
 - [theodicy (1)](/tags/theodicy)
+- [theOther (1)](/tags/theOther)
 - [TheOtherJournal (1)](/tags/TheOtherJournal)
 - [TheParisReview (1)](/tags/TheParisReview)
 - [ThePMC (1)](/tags/ThePMC)
@@ -1074,6 +1076,7 @@ There are **1113** tags, sorted by how often they're used:
 - [Torah (1)](/tags/Torah)
 - [TracyKidder (1)](/tags/TracyKidder)
 - [tragedy (1)](/tags/tragedy)
+- [transcendence (1)](/tags/transcendence)
 - [transhumanism (1)](/tags/transhumanism)
 - [trauma (1)](/tags/trauma)
 - [troubleshooting (1)](/tags/troubleshooting)
