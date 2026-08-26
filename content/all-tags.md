@@ -3,7 +3,7 @@ title: All Tags
 draft: false
 ---
 
-There are **1116** tags, sorted by how often they're used:
+There are **1117** tags, sorted by how often they're used:
 
 - [work (32)](/tags/work)
 - [art (25)](/tags/art)
@@ -798,6 +798,7 @@ There are **1116** tags, sorted by how often they're used:
 - [Mariology (1)](/tags/Mariology)
 - [MarkAGarcia (1)](/tags/MarkAGarcia)
 - [MarkBrians (1)](/tags/MarkBrians)
+- [MarkClavier (1)](/tags/MarkClavier)
 - [MarshallMcLuhan (1)](/tags/MarshallMcLuhan)
 - [MartinLutherKingJr (1)](/tags/MartinLutherKingJr)
 - [MartinMosebach (1)](/tags/MartinMosebach)
