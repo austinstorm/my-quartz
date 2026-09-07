@@ -3,7 +3,7 @@ title: All Tags
 draft: false
 ---
 
-There are **1120** tags, sorted by how often they're used:
+There are **1121** tags, sorted by how often they're used:
 
 - [work (32)](/tags/work)
 - [art (25)](/tags/art)
@@ -107,6 +107,7 @@ There are **1120** tags, sorted by how often they're used:
 - [Lent (4)](/tags/Lent)
 - [LMSacasas (4)](/tags/LMSacasas)
 - [lyrics (4)](/tags/lyrics)
+- [meditation (4)](/tags/meditation)
 - [Mormonism (4)](/tags/Mormonism)
 - [NassimTaleb (4)](/tags/NassimTaleb)
 - [Plough (4)](/tags/Plough)
@@ -155,7 +156,6 @@ There are **1120** tags, sorted by how often they're used:
 - [managerialism (3)](/tags/managerialism)
 - [Mary (3)](/tags/Mary)
 - [masculinity (3)](/tags/masculinity)
-- [meditation (3)](/tags/meditation)
 - [modernism (3)](/tags/modernism)
 - [money (3)](/tags/money)
 - [NewThought (3)](/tags/NewThought)
@@ -1057,6 +1057,7 @@ There are **1120** tags, sorted by how often they're used:
 - [theReal (1)](/tags/theReal)
 - [TheReformation (1)](/tags/TheReformation)
 - [TheSecondComing (1)](/tags/TheSecondComing)
+- [theSelf (1)](/tags/theSelf)
 - [TheSelf (1)](/tags/TheSelf)
 - [theSpectacle (1)](/tags/theSpectacle)
 - [thinking (1)](/tags/thinking)
